@@ -1,4 +1,8 @@
 # Recipe Recommendation App
+![Screenshot 2024-12-21 214659](https://github.com/user-attachments/assets/809dec6f-1410-4422-8501-384219e22e8e)
+![Screenshot 2024-12-21 214625](https://github.com/user-attachments/assets/9ee5da95-397b-45cb-b701-585d4aeb9907)
+![Screenshot 2024-12-21 214559](https://github.com/user-attachments/assets/0344adcb-766d-4258-9475-14e5285eaaf7)
+![Screenshot 2024-12-21 214522](https://github.com/user-attachments/assets/e25b7ca1-08b6-4938-af0d-bb90d4f84d5f)
 
 This project is a Recipe Recommendation App built with FastAPI and Streamlit.
 
