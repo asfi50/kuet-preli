@@ -6,7 +6,7 @@ tags:
 - generated_from_trainer
 model-index:
 - name: mt5-banglish2bangla-checkpoints
-  results: []
+  results: [Loss: 2.9175]
 ---
 
 # mt5-banglish2bangla-checkpoints
@@ -16,6 +16,7 @@ model-index:
 This model is a fine-tuned version of [google/mt5-small](https://huggingface.co/google/mt5-small) on the None dataset.
 It achieves the following results on the evaluation set:
 - Loss: 2.9175
+- Evaluation: BELU
 
  
 hf: 
